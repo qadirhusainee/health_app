@@ -137,7 +137,7 @@ final imagesList = [
 final detailsList = [
   "Health Assessment",
   "Goals & Habits",
-  "Recommendations for better health",
+  "Better health",
 ];
 
 class OnBoarding extends StatefulWidget {
